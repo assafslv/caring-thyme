@@ -1,5 +1,4 @@
 ---
-title: Dianne Ameter
 sections:
   - type: hero_section
     title: Dianne Ameter
